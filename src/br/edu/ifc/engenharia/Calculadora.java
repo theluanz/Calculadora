@@ -28,5 +28,4 @@ public class Calculadora {
 			return(this.getNum1()*this.getNum2());
 		}
 	
-	
 }
