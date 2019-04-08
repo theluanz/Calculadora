@@ -27,5 +27,8 @@ public class Calculadora {
 		public double multiplicacao() {
 			return(this.getNum1()*this.getNum2());
 		}
+		public double divisao() {
+			return(this.getNum1()/this.getNum2());
+		}
 	
 }
