@@ -18,6 +18,9 @@ public class Calculadora {
 		public void setNum2(double num2) {
 			this.num2 = num2;
 		}
+		public double soma() {
+			return(this.getNum1()+this.getNum2());
+		}
 	
 	
 }
